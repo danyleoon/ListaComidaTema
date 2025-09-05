@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListaComida</string>
+    <string name="desayuno">Desayunos en Familia</string>
+    <string name="hamburguer">Hamburguesa extra grande</string>
+    <string name="pizza">Pizzas a la orden</string>
+    <string name="postre">Disfruta de los postres</string>
+    <string name="pozole">Cualquier día es noche mexicana con Pozole</string>
+    <string name="tacos">Tacos de guisado</string>
+    <!-- Ofertas -->
+    <string name="oferta_postre">¡Postres al 2x1!</string>
+    <string name="oferta_pozole">Ahorra hasta el 20%</string>
+    <string name="oferta_pizza">2x1 en pizzas de 2 ingredientes</string>
+    <string name="oferta_desayuno">Desayuno buffet todos los sábados</string>
+    <string name="oferta_tacos">Tacos 2x1 en ordenes de pastor</string>
+    <string name="oferta_hamburger">Hamburguesa doble 10% de descuento</string>
+</resources>
